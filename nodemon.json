@@ -1,0 +1,4 @@
+{
+    "ignore" : ["mongoose/*"],
+    "exec" : "node app.js"
+}
